@@ -25,7 +25,7 @@ This microservice is designed to handle ticket creation and email notifications.
 ## Setup Instructions
 1. Clone the repository:
     ```sh
-    git clone https://github.com/amansharma999/ReminderService
+    git clone https://github.com/amansharma999/ReminderService.git
     ```
 2. Navigate to the project directory:
     ```sh

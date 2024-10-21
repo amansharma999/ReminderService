@@ -38,4 +38,8 @@ const publishMessage = async (channel, binding_key, message) => {
 module.exports = {
   subscribeMessage,
   createChannel,
+<<<<<<< HEAD
+=======
+  publishMessage,
+>>>>>>> 3c5aed1148bf777a93f52505f317090190044926
 };

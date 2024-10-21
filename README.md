@@ -53,7 +53,7 @@ This microservice is designed to handle ticket creation and email notifications.
 
 ## Endpoints
 ### Create Ticket
-- **URL:** `/api/v1/tickets`
+- **URL:** `/reminderservice/api/v1/tickets`
 - **Method:** POST
 - **Params:**
   - **Body:**

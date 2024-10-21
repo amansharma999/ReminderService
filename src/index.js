@@ -11,7 +11,7 @@ const jobs = require("./utils/job");
 const TicketController = require("./controllers/ticket-controller");
 const EmailService = require("./services/email-service");
 
-const setupAndStartServer = async () => {
+
 const setupAndStartServer = async () => {
   const app = express();
   app.use(bodyParser.json());
